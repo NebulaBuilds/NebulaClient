@@ -85,7 +85,7 @@ Removed sections:
 ## About the Project
 
 <div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
+  <img src="assets/nebula_plain.png" alt="screenshot" />
 </div>
 
 <!-- The Idea -->
@@ -111,8 +111,6 @@ But something is still there from the old EruxMod which is the great team. Which
 ### Always supporting
 
 But the most importent people are you! Because the users have always asked us about an update and we tried our best till the end. We hope that this will still continue with the new Nebula Version
-
-<!-- Getting Started -->
 
 ## Getting Started
 
