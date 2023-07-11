@@ -19,7 +19,7 @@ Removed sections:
 
 <div align="center">
 
-  <img src="assets/logo.png" alt="logo" width="200" height="auto" />
+  <img src="assets/nebula_logo.png" alt="logo" width="200" height="auto" />
   <h1>Nebula Client</h1>
   
   <p>
