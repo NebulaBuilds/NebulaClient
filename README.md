@@ -31,16 +31,16 @@ Removed sections:
   <a href="https://github.com/NebulaBuilds/NebulaClient/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/NebulaBuilds/NebulaClient" alt="contributors" />
   </a>
-  <a href="">
-    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
+  <a href="https://github.com/NebulaBuilds/NebulaClient/pulse">
+    <img src="https://img.shields.io/github/last-commit/NebulaBuilds/NebulaClient" alt="last update" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
+  <a href="https://github.com/NebulaBuilds/NebulaClient/network/members">
     <img src="https://img.shields.io/github/forks/NebulaBuilds/NebulaClient" alt="forks" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
+  <a href="https://github.com/NebulaBuilds/NebulaClient/stargazers">
     <img src="https://img.shields.io/github/stars/NebulaBuilds/NebulaClient" alt="stars" />
   </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
+  <a href="https://github.com/NebulaBuilds/NebulaClient/issues/">
     <img src="https://img.shields.io/github/issues/NebulaBuilds/NebulaClient" alt="open issues" />
   </a>
   <a href="https://github.com/NebulaBuilds/NebulaClient/blob/master/LICENSE">
