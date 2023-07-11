@@ -88,36 +88,29 @@ Removed sections:
   <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
 </div>
 
-<!-- TechStack -->
+<!-- The Idea -->
 
 ### The Idea
 
 We always wanted to improve the experience of minecraft in any possible way. And that why we founded NebulaWorks, the organisation that owns the NebulaClient!
 
-<!-- Features -->
+<!-- A long time ago -->
 
 ### A long time ago
 
 Nebual didn't just randomly appear. Maybe you already know us under a other name. "EruxMod", was our first try making a minecraft mod which was very popular in our community but the client wasn't quiet ready for the hype. Thats why it died and the developement stopped.
 
-### Color Reference
+<!-- The great team -->
 
-| Color           | Hex                                                              |
-| --------------- | ---------------------------------------------------------------- |
-| Primary Color   | ![#222831](https://via.placeholder.com/10/222831?text=+) #222831 |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
-| Accent Color    | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color      | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
+### The great team
 
-<!-- Env Variables -->
+But something is still there from the old EruxMod which is the great team. Which always helped us to improve the client. They also didn't run away when the developement of EruxMod stoped.
 
-### Environment Variables
+<!-- Always supporting -->
 
-To run this project, you will need to add the following environment variables to your .env file
+### Always supporting
 
-`API_KEY`
-
-`ANOTHER_API_KEY`
+But the most importent people are you! Because the users have always asked us about an update and we tried our best till the end. We hope that this will still continue with the new Nebula Version
 
 <!-- Getting Started -->
 
