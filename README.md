@@ -68,7 +68,7 @@ Removed sections:
   - [A long time ago](#a-long-time-ago)
   - [The great team](#the-great-team)
   - [Always supporting](#always-supporting)
-- [Getting Started](#getting-started)
+- [How to install](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Run Locally](#run-locally)
