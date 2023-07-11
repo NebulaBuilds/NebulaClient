@@ -68,10 +68,10 @@ Removed sections:
   - [A long time ago](#a-long-time-ago)
   - [The great team](#the-great-team)
   - [Always supporting](#always-supporting)
-- [How to install](#getting-started)
+- [How to install](#how-to-install)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Run Locally](#run-locally)
+  - [Run](#run)
 - [Usage](#usage)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
@@ -112,13 +112,13 @@ But something is still there from the old EruxMod which is the great team. Which
 
 But the most importent people are you! Because the users have always asked us about an update and we tried our best till the end. We hope that this will still continue with the new Nebula Version
 
-## Getting Started
+## How to install
 
 <!-- Prerequisites -->
 
 ### Prerequisites
 
-This project uses Yarn as package manager
+The current version of the launcher is not compatible with any other os then **windows**. Please join the [Discord](https://discord.gg/5jDNF78MgY) for any other informations
 
 ```bash
  npm install --global yarn
@@ -128,40 +128,18 @@ This project uses Yarn as package manager
 
 ### Installation
 
-Install my-project with npm
-
-```bash
-  yarn install my-project
-  cd my-project
-```
+1. Download the latest release of the launcher
+2. Run the installer
 
 <!-- Run Locally -->
 
-### Run Locally
+### Run
 
-Clone the project
+In the launcher you can select the different versions you want to run. The you just have to click on `Launch` and you will need to put your microsoft account credentionals into the login screen.
 
-```bash
-  git clone https://github.com/Louis3797/awesome-readme-template.git
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  yarn install
-```
-
-Start the server
-
-```bash
-  yarn start
-```
+1. Open Launcher
+2. Select Version
+3. Launch Game
 
 <!-- Usage -->
 
