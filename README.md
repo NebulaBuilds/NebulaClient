@@ -29,7 +29,7 @@ Removed sections:
 <!-- Badges -->
 <p>
   <a href="https://github.com/NebulaBuilds/NebulaClient/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
+    <img src="https://img.shields.io/github/contributors/NebulaBuilds/NebulaClient" alt="contributors" />
   </a>
   <a href="">
     <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
