@@ -49,13 +49,11 @@ Removed sections:
 </p>
    
 <h4>
-    <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
+    <a href="https://youtube.com/">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template">Documentation</a>
+    <a href="https://github.com/NebulaBuilds/NebulaClient/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Request Feature</a>
+    <a href="https://github.com/NebulaBuilds/NebulaClient/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -66,10 +64,10 @@ Removed sections:
 # Table of Contents
 
 - [About the Project](#about-the-project)
-  - [Tech Stack](#tech-stack)
-  - [Features](#features)
-  - [Color Reference](#color-reference)
-  - [Environment Variables](#environment-variables)
+  - [The Idea](#the-idea)
+  - [A long time ago](#a-long-time-ago)
+  - [The great team](#the-great-team)
+  - [Always supporting](#always-supporting)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -92,7 +90,7 @@ Removed sections:
 
 <!-- TechStack -->
 
-### Tech Stack
+### About the Project
 
 <details>
   <summary>Client</summary>
