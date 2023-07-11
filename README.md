@@ -92,17 +92,13 @@ Removed sections:
 
 ### The Idea
 
-<details>
-  We always wanted to improve the experience of minecraft in any possible way. And that why we founded NebulaWorks, the organisation that owns the NebulaClient!
-</details>
+We always wanted to improve the experience of minecraft in any possible way. And that why we founded NebulaWorks, the organisation that owns the NebulaClient!
 
 <!-- Features -->
 
 ### A long time ago
 
-<details>
-  Nebual didn't just randomly appear. Maybe you already know us under a other name. "EruxMod", was our first try making a minecraft mod which was very popular in our community but the client wasn't quiet ready for the hype. Thats why it died and the developement stopped.
-</details>
+Nebual didn't just randomly appear. Maybe you already know us under a other name. "EruxMod", was our first try making a minecraft mod which was very popular in our community but the client wasn't quiet ready for the hype. Thats why it died and the developement stopped.
 
 ### Color Reference
 
