@@ -90,7 +90,7 @@ Removed sections:
 
 <!-- TechStack -->
 
-### About the Project
+### The Idea
 
 <details>
   <summary>Client</summary>
