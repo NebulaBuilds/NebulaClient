@@ -72,11 +72,7 @@ Removed sections:
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Run](#run)
-- [Usage](#usage)
 - [Roadmap](#roadmap)
-- [Contributing](#contributing)
-  - [Code of Conduct](#code-of-conduct)
-- [License](#license)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
@@ -120,10 +116,6 @@ But the most importent people are you! Because the users have always asked us ab
 
 The current version of the launcher is not compatible with any other os then **windows**. Please join the [Discord](https://discord.gg/5jDNF78MgY) for any other informations
 
-```bash
- npm install --global yarn
-```
-
 <!-- Installation -->
 
 ### Installation
@@ -141,66 +133,23 @@ In the launcher you can select the different versions you want to run. The you j
 2. Select Version
 3. Launch Game
 
-<!-- Usage -->
-
-## Usage
-
-Use this space to tell a little more about your project and how it can be used. Show additional screenshots, code samples, demos or link to other resources.
-
-```javascript
-import Component from "my-project";
-
-function App() {
-  return <Component />;
-}
-```
-
 <!-- Roadmap -->
 
 ## Roadmap
 
-- [x] Todo 1
-- [ ] Todo 2
-
-<!-- Contributing -->
-
-## Contributing
-
-<a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
-</a>
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-<!-- Code of Conduct -->
-
-### Code of Conduct
-
-Please read the [Code of Conduct](https://github.com/Louis3797/awesome-readme-template/blob/master/CODE_OF_CONDUCT.md)
-
-<!-- License -->
-
-## License
-
-Distributed under the no License. See LICENSE.txt for more information.
-
+- [x] Custome Launcher
+- [x] Different versions
+- [ ] Cosmetics
 <!-- Contact -->
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
+Project Link: [https://github.com/NebulaBuilds/NebulaClient](https://github.com/NebulaBuilds/NebulaClient)
 
 <!-- Acknowledgments -->
 
 ## Acknowledgements
 
-Use this section to mention useful resources and libraries that you have used in your projects.
+Here are the most important librarys used in our client.
 
-- [Shields.io](https://shields.io/)
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
-- [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
-- [Readme Template](https://github.com/othneildrew/Best-README-Template)
+- [Node.Js](https://nodejs.org/)
